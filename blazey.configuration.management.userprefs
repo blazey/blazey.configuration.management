@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="specs/when_configuration_is_built.cs">
+    <Files>
+      <File FileName="specs/Catch.cs" Line="48" Column="48" />
+      <File FileName="specs/when_configuration_is_built.cs" Line="57" Column="57" />
+      <File FileName="Configuration.cs" Line="11" Column="11" />
+      <File FileName="specs/packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

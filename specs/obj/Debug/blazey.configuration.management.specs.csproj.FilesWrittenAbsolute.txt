@@ -1,0 +1,8 @@
+/Users/edblackburn/Documents/dev/blazey.configuration.management/specs/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/edblackburn/Documents/dev/blazey.configuration.management/specs/bin/Debug/nunit.framework.dll
+/Users/edblackburn/Documents/dev/blazey.configuration.management/specs/bin/Debug/blazey.configuration.management.dll
+/Users/edblackburn/Documents/dev/blazey.configuration.management/specs/bin/Debug/blazey.configuration.management.dll.mdb
+/Users/edblackburn/Documents/dev/blazey.configuration.management/specs/bin/Debug/specs.dll.mdb
+/Users/edblackburn/Documents/dev/blazey.configuration.management/specs/bin/Debug/specs.dll
+/Users/edblackburn/Documents/dev/blazey.configuration.management/specs/obj/Debug/specs.dll
+/Users/edblackburn/Documents/dev/blazey.configuration.management/specs/obj/Debug/specs.dll.mdb
